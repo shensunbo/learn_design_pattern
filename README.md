@@ -1,2 +1,2 @@
-# learn_design_pattern
-learn_design_pattern
+# Chain_of_Responsibility
+`bazel build //Chain_of_Responsibility:main`
